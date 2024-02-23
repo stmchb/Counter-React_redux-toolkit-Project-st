@@ -1,0 +1,30 @@
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height : 40vh
+}
+
+h1{
+  padding-top:10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inputField{
+  width: 115px;
+}
+
+.inputFil{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ padding-top: 15px;
+}
+.forInputButton{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
+}
+ 
